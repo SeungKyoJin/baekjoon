@@ -9,4 +9,7 @@
     </p>     
 ```python
 from collection import deque
+
+q = deque.Deque()
+q.popleft()
 ```
